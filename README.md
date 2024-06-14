@@ -22,6 +22,7 @@ The brain tumor classification model is built on the Data-efficient Image Transf
 - **Batch Normalization**: Normalizes the activations of the neurons to improve the training process.
 - **Dropout**: Regularization technique to prevent overfitting by randomly dropping units during training.
 - **ReLU Activation Function**: Applied to introduce non-linearity in the model, helping to learn complex patterns.
+- **Contour Analysis for Cropping**: Uses contour analysis and end point detection to crop the images, focusing on regions of interest and removing irrelevant background data.
 
 ## Usage
 
