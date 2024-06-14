@@ -1,1 +1,35 @@
-- OpenCV
+# Please carefully install these libraries, ensuring they are compatible with each other for a smooth experience.
+# It is recommended to create a virtual environment before installing these packages.
+
+# Core Libraries
+numpy==1.23.0
+tqdm==4.64.0
+matplotlib==3.5.2
+scikit-learn==1.1.1
+Pillow==9.1.1
+
+# TensorFlow and Keras
+tensorflow==2.9.1
+keras==2.9.0
+
+# PyTorch and TorchVision
+torch==1.11.0
+torchvision==0.12.0
+
+# Image Processing
+opencv-python-headless==4.5.5.64
+imutils==0.5.4
+
+# Data Augmentation and Resampling
+imblearn==0.0
+
+# Plotting and Visualization
+plotly==5.9.0
+seaborn==0.11.2
+
+# Transformers Library
+transformers==4.19.2
+
+# Please verify compatibility of these versions with your existing environment.
+# If you encounter any issues, consider upgrading or downgrading specific packages as needed.
+# Creating a virtual environment is highly recommended for managing dependencies.
